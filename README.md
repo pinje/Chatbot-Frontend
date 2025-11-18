@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Chatbot for Dienst IT Fontys
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Group Semester Project. 
+Provided a solution to reduce Fontys' IT department (Dienst IT) workload by creating a chatbot that answers students and staffs' questions automatically, providing FAQs as well as an integrated Bing search, providing relevant website URLs.
 
 ## Available Scripts
 
